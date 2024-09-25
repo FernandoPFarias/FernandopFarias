@@ -1,9 +1,5 @@
 <h2 align="left">Olá!👾Me chamo Fernando Farias e sou Dev de Jogos.<br>Hi! 👾 My name is Fernando Farias and I'm a GameDev.</h2>
 
-
-
-
-
 ###
 
 <img align="right" height="200" src="https://camo.githubusercontent.com/74313be7cf82d8353f79c37c75f39a4999a96d9451379663b5e60ce65200639d/68747470733a2f2f692e726564642e69742f316431317338323064676d39312e676966"  />
