@@ -1,5 +1,14 @@
 <h2 align="left">Hello World! 👾 Sou Fernando Farias</h2>
 
+<style>
+  a {
+    text-decoration: none; /* Remove o sublinhado */
+  }
+  a:focus {
+    outline: none; /* Remove o contorno azul ao focar */
+  }
+</style>
+
 ###
 
 <img align="right" height="200" src="https://camo.githubusercontent.com/74313be7cf82d8353f79c37c75f39a4999a96d9451379663b5e60ce65200639d/68747470733a2f2f692e726564642e69742f316431317338323064676d39312e676966" alt="Gif de tecnologia"/>
@@ -25,14 +34,6 @@
 </div>
 
 ###
-
-
-
-
-
-
-
-
 
 <h3 align="left">Linguagens e ferramentas</h3>
 
