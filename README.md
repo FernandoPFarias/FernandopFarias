@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
 </div>
 
-
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fernandopfarias/" target="_blank">
